@@ -24,7 +24,7 @@ LIVE_DIR.mkdir(exist_ok=True)
 
 
 # -------- FLASK APP --------
-app = Flask(__name__)
+app = Flask('SideEdit')
 app.config['SECRET_KEY'] = 'K-sideedit-E-0987654321-Y'
 socketio = SocketIO(app, cors_allowed_origins="*")
 
