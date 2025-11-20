@@ -1,0 +1,28 @@
+<!-- templates/index.html -->
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>SideEdit - Help</title>
+    <script src="/sideedit.js" defer></script>
+</head>
+<body>
+    <pre>
+// -------- SideEdit --------
+
+// --- Modo de uso
+// 01 - Activar el server. Por ejemplo:
+
+python server.py --host 127.0.0.1 --port 5555 --folder_watch codigos_editables
+
+
+
+// 02 - Poner en el editor de Hydra o en la consola de desarrollador
+
+await loadScript("http://{{ host }}:{{ port }}/sideedit.js")
+
+setWatchFile('script_editable.js')
+
+    </pre>
+</body>
+</html>
