@@ -2,7 +2,7 @@
 
 set -e
 
-python3.9 -m venv pyvenv
+python -m venv pyvenv
 
 . pyvenv/bin/activate
 
