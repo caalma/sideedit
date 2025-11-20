@@ -14,7 +14,7 @@ Pensado para funcionar, en modo local, con [Hydra](https://hydra.ojack.xyz/), pe
 
 ## Modo de uso
 
-[![SideEdit - Demo](https://img.youtube.com/vi/KjIiKUTB_5U/0.jpg)](https://www.youtube.com/watch?v=KjIiKUTB_5U)
+[![SideEdit - Demo](https://img.youtube.com/vi/KjIiKUTB_5U/0.jpg)](https://www.youtube.com/watch?v=KjIiKUTB_5U){target=_blank}
 
 ### 0. Instalar requerimientos
 
